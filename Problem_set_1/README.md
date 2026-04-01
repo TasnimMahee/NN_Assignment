@@ -48,8 +48,3 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
 - TensorFlow (Keras)  
 - Matplotlib  
 - PIL (for image processing)  
-
-## How to Run  
-1. Ensure the dataset is organized as `train`, `val`, and `test` folders under your project directory.  
-2. Install dependencies:  
-   py -m pip install tensorflow matplotlib
