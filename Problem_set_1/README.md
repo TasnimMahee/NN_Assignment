@@ -29,9 +29,9 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
 
 
 ## 📈 Results  
-- **Training Accuracy:** Reached up to ~93.25%.  
+- **Training Accuracy:** Reached up to ~95%.  
 - **Validation Accuracy:** Varied between 75% and 87.5% during training, indicating some variance likely due to limited validation data.  
-- **Test Accuracy:** Achieved 81.41% accuracy on the test dataset, demonstrating good predictive performance.
+- **Test Accuracy:** Achieved 86.5% accuracy on the test dataset, demonstrating good predictive performance.
 
 ## ⚠️ Warnings & Notes  
 - TensorFlow logs indicate that some optimizations and GPU support are not available on native Windows (recommend using WSL2 or TensorFlow-DirectML for GPU acceleration).  
