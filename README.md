@@ -1,4 +1,4 @@
-Neural Network assignment repository
+##Neural Network assignment repository
 
 This repository contains solutions for two machine learning problem sets.  
 
